@@ -1,0 +1,1 @@
+python node.py --static --id 1 --nextId 2 --nextIP 10.0.0.2
